@@ -1,0 +1,2 @@
+# aukok
+Aukokit vaikams 
